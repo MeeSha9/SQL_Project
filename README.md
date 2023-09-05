@@ -6,8 +6,8 @@ Superstore Database
 Task 1: Understanding the data in hand
 
 A. Describe the data in hand in your own words. (Word Limit is 500)
-
 B. Identify and list the Primary Keys and Foreign Keys for this dataset (Hint: If a table don’t have Primary Key or Foreign Key, then specifically mention it in your answer.)
+
 
 
 Task 2: Basic Analysis
